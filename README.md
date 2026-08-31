@@ -5,7 +5,7 @@ Legacy VB.NET utility for retrieving Active Directory user group membership.
 ## Contents
 
 - `UserMembership.sln`
-- `UserMembership/` — application source and forms
+- `UserMembership/` - application source and forms
 
 ## Attribution and provenance
 
