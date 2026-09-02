@@ -1,5 +1,7 @@
 ﻿# UserMembership
 
+**Source last updated:** 2008-02-17
+
 Legacy VB.NET utility for retrieving Active Directory user group membership.
 
 ## Contents
