@@ -23,6 +23,8 @@ Open `UserMembership.sln` in Visual Studio 2008 (solution format 10.00, ToolsVer
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `UserMembership-VB`. No third-party source attribution markers were identified.
 
 ## License
